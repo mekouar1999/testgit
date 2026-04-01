@@ -35,3 +35,21 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+
+.section1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+.section1droite img{
+    width: 300px;
+}
+
+.section1gauche{
+    width: 40%;
+}
+
+.section1droite{
+    width: 40%;
+}
